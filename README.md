@@ -1,1 +1,1 @@
-Introdução sobre os comandos do git e github.
+Projeto para ser clonado 
